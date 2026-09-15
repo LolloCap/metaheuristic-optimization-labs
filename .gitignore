@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+
+# QAPLIB inputs are downloaded locally; see data/README.md.
+data/qaplib/*.dat
+data/qaplib/*.sln
+!data/qaplib/.gitkeep
+
+# Original course briefs are retained locally but are not redistributed.
+assignments/es/*.pdf
+
+# Generated experiment output.
+results/generated/

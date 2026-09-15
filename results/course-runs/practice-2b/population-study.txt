@@ -1,0 +1,132 @@
+
+Running test on dataset: tai25b
+  Population size 5: average cost = 607029683
+  Population size 10: average cost = 585435578
+  Population size 15: average cost = 513138954
+  Population size 20: average cost = 499385230
+  Population size 25: average cost = 458630531
+  Population size 30: average cost = 472767656
+  Population size 35: average cost = 488294075
+  Population size 40: average cost = 486368110
+  Population size 45: average cost = 472829541
+  Population size 50: average cost = 476781728
+  Population size 55: average cost = 466634670
+  Population size 60: average cost = 452307764
+  Population size 65: average cost = 465502361
+  Population size 70: average cost = 480827398
+  Population size 75: average cost = 462816104
+  Population size 80: average cost = 452766310
+  Population size 85: average cost = 449857579
+  Population size 90: average cost = 459565217
+  Population size 95: average cost = 433443116
+  Population size 100: average cost = 466151046
+  Population size 105: average cost = 455609341
+  Population size 110: average cost = 451780076
+  Population size 115: average cost = 454753888
+  Population size 120: average cost = 439602520
+  Population size 125: average cost = 471613764
+  Population size 130: average cost = 434645893
+  Population size 135: average cost = 478956203
+  Population size 140: average cost = 465985513
+  Population size 145: average cost = 461321818
+  Population size 150: average cost = 445953322
+  Population size 155: average cost = 431453547
+  Population size 160: average cost = 448146702
+  Population size 165: average cost = 432007639
+  Population size 170: average cost = 426489233
+  Population size 175: average cost = 432131944
+  Population size 180: average cost = 416484663
+  Population size 185: average cost = 433843397
+  Population size 190: average cost = 436872129
+  Population size 195: average cost = 437326981
+  Population size 200: average cost = 414105604
+
+Best population size for 'tai25b': 200 (average cost: 414105604)
+
+Running test on dataset: sko90
+  Population size 5: average cost = 129660
+  Population size 10: average cost = 128330
+  Population size 15: average cost = 128359
+  Population size 20: average cost = 128008
+  Population size 25: average cost = 126402
+  Population size 30: average cost = 126910
+  Population size 35: average cost = 126949
+  Population size 40: average cost = 127360
+  Population size 45: average cost = 126218
+  Population size 50: average cost = 126569
+  Population size 55: average cost = 125791
+  Population size 60: average cost = 126611
+  Population size 65: average cost = 126712
+  Population size 70: average cost = 126644
+  Population size 75: average cost = 125990
+  Population size 80: average cost = 126082
+  Population size 85: average cost = 125689
+  Population size 90: average cost = 126450
+  Population size 95: average cost = 126420
+  Population size 100: average cost = 126022
+  Population size 105: average cost = 126198
+  Population size 110: average cost = 126238
+  Population size 115: average cost = 125738
+  Population size 120: average cost = 125511
+  Population size 125: average cost = 126132
+  Population size 130: average cost = 126320
+  Population size 135: average cost = 125697
+  Population size 140: average cost = 125938
+  Population size 145: average cost = 125684
+  Population size 150: average cost = 125580
+  Population size 155: average cost = 125309
+  Population size 160: average cost = 125356
+  Population size 165: average cost = 125449
+  Population size 170: average cost = 125776
+  Population size 175: average cost = 125203
+  Population size 180: average cost = 125222
+  Population size 185: average cost = 125183
+  Population size 190: average cost = 125659
+  Population size 195: average cost = 125423
+  Population size 200: average cost = 125874
+
+Best population size for 'sko90': 185 (average cost: 125183)
+
+Running test on dataset: tai150b
+  Population size 5: average cost = 602730257
+  Population size 10: average cost = 588511064
+  Population size 15: average cost = 584662919
+  Population size 20: average cost = 583486793
+  Population size 25: average cost = 581022876
+  Population size 30: average cost = 580228330
+  Population size 35: average cost = 575958858
+  Population size 40: average cost = 576713137
+  Population size 45: average cost = 574029007
+  Population size 50: average cost = 577351154
+  Population size 55: average cost = 571702005
+  Population size 60: average cost = 571538506
+  Population size 65: average cost = 571034821
+  Population size 70: average cost = 569781672
+  Population size 75: average cost = 567910376
+  Population size 80: average cost = 566912220
+  Population size 85: average cost = 571333935
+  Population size 90: average cost = 567620934
+  Population size 95: average cost = 562136692
+  Population size 100: average cost = 565679301
+  Population size 105: average cost = 573325936
+  Population size 110: average cost = 569249226
+  Population size 115: average cost = 567016834
+  Population size 120: average cost = 567544564
+  Population size 125: average cost = 569474965
+  Population size 130: average cost = 567002955
+  Population size 135: average cost = 566532251
+  Population size 140: average cost = 566802187
+  Population size 145: average cost = 563709925
+  Population size 150: average cost = 561119557
+  Population size 155: average cost = 565021997
+  Population size 160: average cost = 564012943
+  Population size 165: average cost = 564348953
+  Population size 170: average cost = 564030420
+  Population size 175: average cost = 565854289
+  Population size 180: average cost = 564281018
+  Population size 185: average cost = 561359621
+  Population size 190: average cost = 561765875
+  Population size 195: average cost = 561083089
+  Population size 200: average cost = 562939114
+
+Best population size for 'tai150b': 195 (average cost: 561083089)

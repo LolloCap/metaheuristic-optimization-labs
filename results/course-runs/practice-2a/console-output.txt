@@ -1,0 +1,51 @@
+
+[Running on dataset: tai25b.dat - dim=25]
+Inizio algoritmo Greedy...
+Fine algoritmo Greedy.
+Inizio algoritmo GRASP...
+Fine algoritmo GRASP.
+Inizio algoritmo ILS...
+Fine algoritmo ILS.
+Inizio algoritmo VNS...
+Esecuzioni VNS: 100%|███████████████████████████████████████████████████████████████████| 5/5 [00:11<00:00,  2.27s/run]
+Fine algoritmo VNS.
+
+--- Riepilogo risultati ---
+Greedy: 913427707 (#Evals: 1)
+GRASP: 396800346 (#Evals: 5993)
+ILS: 347562683 (#Evals: 49916)
+VNS Mean: 375109091.60 (Std: 29641366.26, RE: 8.51%, CV: 7.90%, #Evals: 125084)
+
+[Running on dataset: sko90.dat - dim=90]
+Inizio algoritmo Greedy...
+Fine algoritmo Greedy.
+Inizio algoritmo GRASP...
+Fine algoritmo GRASP.
+Inizio algoritmo ILS...
+Fine algoritmo ILS.
+Inizio algoritmo VNS...
+Esecuzioni VNS: 100%|██████████████████████████████████████████████████████████████████| 5/5 [59:26<00:00, 713.27s/run]
+Fine algoritmo VNS.
+
+--- Riepilogo risultati ---
+Greedy: 136080 (#Evals: 1)
+GRASP: 118198 (#Evals: 534021)
+ILS: 117022 (#Evals: 2966216)
+VNS Mean: 116727.60 (Std: 157.62, RE: 0.11%, CV: 0.14%, #Evals: 16936050)
+
+[Running on dataset: tai150b.dat - dim=150]
+Inizio algoritmo Greedy...
+Fine algoritmo Greedy.
+Inizio algoritmo GRASP...
+Fine algoritmo GRASP.
+Inizio algoritmo ILS...
+Fine algoritmo ILS.
+Inizio algoritmo VNS...
+Esecuzioni VNS: 100%|█████████████████████████████████████████████████████████████| 5/5 [20:16:37<00:00, 14599.47s/run]
+Fine algoritmo VNS.
+
+--- Riepilogo risultati ---
+Greedy: 653315921 (#Evals: 1)
+GRASP: 510186312 (#Evals: 5374236)
+ILS: 506951594 (#Evals: 23556387)
+VNS Mean: 505915562.00 (Std: 1929359.83, RE: 0.66%, CV: 0.38%, #Evals: 194191860)

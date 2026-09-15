@@ -1,0 +1,8 @@
+========== MUTATION TEST ON SKO90 ==========
+Mutation 2% -> Average: 126036
+Mutation 4% -> Average: 124899
+Mutation 6% -> Average: 124442
+Mutation 8% -> Average: 125038
+Mutation 10% -> Average: 126022
+
+>> Best mutation rate for sko90: 6% (avg cost: 124442)

@@ -1,0 +1,24 @@
+========== TAI25B ==========
+Tournament k 5% -> Average: 438508532
+Tournament k 10% -> Average: 466151046
+Tournament k 20% -> Average: 471975848
+Tournament k 30% -> Average: 455513736
+Tournament k 50% -> Average: 489403264
+
+>> Best k for tai25b: 5% (average cost: 438508532)
+
+========== SKO90 ==========
+Tournament k 5% -> Average: 125726
+Tournament k 10% -> Average: 126022
+Tournament k 20% -> Average: 125870
+Tournament k 30% -> Average: 125685
+Tournament k 50% -> Average: 126477
+
+>> Best k for sko90: 30% (average cost: 125685)
+
+========== TAI150B ==========
+Tournament k 5% -> Average: 569554571
+Tournament k 10% -> Average: 565679301
+Tournament k 20% -> Average: 568393369
+Tournament k 30% -> Average: 569629978
+Tournament k 50% -> Average: 564857441
